@@ -1,4 +1,4 @@
-:START_ID,:END_ID,:TYPE
+start_id,end_id,rel_type
 dis001,diet001,YÊU_CẦU_CHẾ_ĐỘ
 dis001,diet002,YÊU_CẦU_CHẾ_ĐỘ
 dis001,diet003,YÊU_CẦU_CHẾ_ĐỘ
